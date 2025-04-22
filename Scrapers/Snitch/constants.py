@@ -1,0 +1,3 @@
+URLS = {
+    "mens": "https://api.gap.com/commerce/search/products/v2/cc?brand=on&market=us&cid=1031099&locale=en_US&pageSize=300&ignoreInventory=false&includeMarketingFlagsDetails=true&enableDynamicFacets=true&department=75&vendor=Certona&trackingid=79840819324313012",
+    "womens":"https://api.gap.com/commerce/search/products/v2/cc?brand=on&market=us&cid=1185233&locale=en_US&pageSize=300&ignoreInventory=false&includeMarketingFlagsDetails=true&enableDynamicFacets=true&department=136&vendor=Certona&trackingid=79840819324313012"}
